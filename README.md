@@ -1,4 +1,4 @@
-# Created SQLite database using by Python
+# Python kullanılarak oluşturulan SQLite veritabanı
 
 Bu bölümde python ile ORM tekniği ile SQLite veritabanı oluşturmayı öğreneceğiz. Bu kdoda veritabanı ile bağlantı kurmak için DBeaver kullanılmıştır.
 
